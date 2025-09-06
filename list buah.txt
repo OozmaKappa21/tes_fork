@@ -1,2 +1,4 @@
 pisang
 nanas
+mangga
+delimat
