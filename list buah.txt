@@ -2,3 +2,5 @@ pisang
 nanas
 mangga
 delimat
+salak
+jeruk
