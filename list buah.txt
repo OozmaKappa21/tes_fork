@@ -4,3 +4,4 @@ mangga
 delimat
 salak
 jeruk
+melon
